@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Dataset (usually too large for GitHub)
+train/
+val/
+test/
+*.zip
+
+# Large model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+.ipynb_checkpoints/
+.drive/
+
+# Cache
+*.cache
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+tmp/

@@ -1,0 +1,12 @@
+path: .
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names:
+  0: Autorickshaw
+  1: Bicycle
+  2: Bus
+  3: Car
+  4: Motorcycle
+  5: Truck
